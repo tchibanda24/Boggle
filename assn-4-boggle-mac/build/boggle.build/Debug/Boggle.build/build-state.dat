@@ -1,0 +1,432 @@
+TBoggle
+v3
+r0
+t332637083.062424
+cCheck dependencies
+cProcessInfoPlistFile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/Info.plist Info.plist
+cCompileC build/boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cLd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/MacOS/Boggle normal i386
+cTouch /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app
+
+N./Boggle.app
+t1310944283
+s102
+
+N./Boggle.app/Contents/Info.plist
+t1310573436
+s1113
+
+N./Boggle.app/Contents/MacOS/Boggle
+t1310944283
+s193624
+
+N./Boggle.app/Contents/PkgInfo
+t1310573436
+s8
+
+N/:Developer/SDKs/MacOSX10.6.sdk
+c000000004DA341F300000000000000EE
+t1302544883
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DA341F300000000000000EE
+t1302544883
+s238
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004DC1CFC9000000000000A5F0
+t1304547273
+s42480
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004DC1CFCA000000000000A5E0
+t1304547274
+s42464
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004DE5A33C0000000000785970
+t1306895164
+s7887216
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app
+t1311025279
+s102
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/Info.plist
+t1311025273
+s1114
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/MacOS/Boggle
+t1311025279
+s214736
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/PkgInfo
+t1311025273
+s8
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp
+c000000004E25EA3C0000000000003F2A
+t1311107644
+s16170
+i"genlib.h"
+i"gboggle.h"
+i"sound.h"
+i"extgraph.h"
+i"simpio.h"
+i"lexicon.h"
+i"grid.h"
+i"vector.h"
+i"random.h"
+i<iostream>
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Objects-normal/i386/Boggle.LinkFileList
+c000000004E1DC37B000000000000010B
+t1310573435
+s267
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o
+t1311025274
+s137320
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o
+t1311025274
+s51384
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/bst.h
+c000000004A32278A0000000000001556
+t1244800906
+s5462
+i"genlib.h"
+i"cmpfn.h"
+i"stack.h"
+i"foreach.h"
+i"private/bst.h"
+i"private/bst.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/cmpfn.h
+c000000004A2A4D6C0000000000000311
+t1244286316
+s785
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/extgraph.h
+c000000004A2A4D6C000000000000430E
+t1244286316
+s17166
+i"genlib.h"
+i"graphics.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/foreach.h
+c000000004A32281A000000000000081E
+t1244801050
+s2078
+i"genlib.h"
+i<ios>
+i<fstream>
+i<sstream>
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/genlib.h
+c000000004A2EA6E600000000000007DD
+t1244571366
+s2013
+i<string>
+i<exception>
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/graphics.h
+c000000004A2A4D6C00000000000012DA
+t1244286316
+s4826
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/grid.h
+c000000004A32278A0000000000001AC6
+t1244800906
+s6854
+i"genlib.h"
+i"strutils.h"
+i"foreach.h"
+i"private/grid.h"
+i"private/grid.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/lexicon.h
+c000000004A3D0384000000000000184F
+t1245512580
+s6223
+i"genlib.h"
+i"foreach.h"
+i"set.h"
+i"stack.h"
+i<cctype>
+i"private/lexicon.h"
+i"private/lexicon.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/libcs106.a
+c000000004A67C5E4000000000006F570
+t1248314852
+s456048
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/bst.cpp
+c000000004A32278A00000000000037EE
+t1244800906
+s14318
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/bst.h
+c000000004A32278A0000000000000AA8
+t1244800906
+s2728
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/grid.cpp
+c000000004A32278A0000000000001676
+t1244800906
+s5750
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/grid.h
+c000000004A32278A0000000000000924
+t1244800906
+s2340
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/lexicon.cpp
+c000000004A2EAEE2000000000000026E
+t1244573410
+s622
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/lexicon.h
+c000000004A3D03840000000000000A4C
+t1245512580
+s2636
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/set.cpp
+c000000004A32278A00000000000013BC
+t1244800906
+s5052
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/set.h
+c000000004A32278A00000000000006AC
+t1244800906
+s1708
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/stack.cpp
+c000000004A2EAEE20000000000000596
+t1244573410
+s1430
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/stack.h
+c000000004A2A6532000000000000046E
+t1244292402
+s1134
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/vector.cpp
+c000000004A32278A00000000000017CF
+t1244800906
+s6095
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/private/vector.h
+c000000004A32278A00000000000006AB
+t1244800906
+s1707
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/random.h
+c000000004A2A4D6C00000000000007DB
+t1244286316
+s2011
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/set.h
+c000000004A32278A0000000000001BEB
+t1244800906
+s7147
+i"cmpfn.h"
+i"bst.h"
+i"vector.h"
+i"foreach.h"
+i"private/set.h"
+i"private/set.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/simpio.h
+c000000004A677E100000000000000A74
+t1248296464
+s2676
+i"genlib.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/sound.h
+c000000004A2A4D6C00000000000004D3
+t1244286316
+s1235
+i"genlib.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/stack.h
+c000000004A2A4D6C0000000000000B30
+t1244286316
+s2864
+i"vector.h"
+i"private/stack.h"
+i"private/stack.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/strutils.h
+c000000004A2A4D6C0000000000000877
+t1244286316
+s2167
+i"genlib.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106/vector.h
+c000000004A32278A0000000000001BDB
+t1244800906
+s7131
+i"genlib.h"
+i"strutils.h"
+i"foreach.h"
+i"private/vector.h"
+i"private/vector.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp
+c000000004535FC740000000000003E83
+t1161165940
+s16003
+i"extgraph.h"
+i"gboggle.h"
+i"strutils.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.h
+c000000004535FAA60000000000000BCD
+t1161165478
+s3021
+i<string>
+i"genlib.h"
+
+NInfo.plist
+c0000000049E140160000000000000326
+t1239498774
+s806
+
+CBuild AST from /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp
+r0
+
+CBuild AST from /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesaccaf6f4c0e0b341^1ff50b07c1e0b341^---0#1#0#--18"Check dependencies
+
+CCompileC build/boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s332637082.446996
+e332637082.872238
+r1
+xCompileC
+xbuild/boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp332637082#332637082#0(0"0(0#0#76"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp8623598400#1024"    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Boggle.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/DerivedSources/i386 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/DerivedSources -fstack-check -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o0#
+
+CCompileC build/boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s333496583.075252
+e333496585.483447
+r1
+xCompileC
+xbuild/boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp506e1307c1e0b341^2fc37b09c1e0b341^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp0000000000000000^1293"CompileC build/boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o boggle.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Boggle.hmap -Ics106 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/include -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/DerivedSources/i386 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/DerivedSources -Wall -Wno-sign-compare -F/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac -fstack-check -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/boggle.cpp -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o
+
+CCompileC build/boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s332266236.047491
+e332266238.278330
+r1
+xCompileC
+xbuild/boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:89: warning: 'int min(int, int)' defined but not used
+lSLF07#2@85"Compile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp332266236#332266238#0(862"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:89: warning: 'int min(int, int)' defined but not used6(22@53"Deprecated conversion from string constant to 'char*'332266238#0#146#0(6@77"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp182858740#287#0#287#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'332266238#146#146#0(6@77"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp182858740#287#0#287#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'332266238#292#146#0(6@77"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp182858740#287#0#287#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'332266238#438#146#0(6@77"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp182858740#287#0#287#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'332266238#584#146#0(6@77"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp182858740#287#0#287#0#49"deprecated conversion from string constant to '*'0(22@40"'int min(int, int)' defined but not used332266238#730#132#0(6@77"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp182858740#89#0#89#0#24"'*' defined but not used0(0#0#77"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp8605125408#1026"    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Boggle.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/DerivedSources/i386 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/DerivedSources -fstack-check -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o0#
+
+CCompileC build/boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s332718073.829677
+e332718074.463750
+r1
+xCompileC
+xbuild/boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:89: warning: 'int min(int, int)' defined but not used
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp9e7ed4f9dfd4b341^aab776fadfd4b341^-862"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:287: warning: deprecated conversion from string constant to 'char*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp:89: warning: 'int min(int, int)' defined but not used6(21%IDEActivityLogMessage2@53"Deprecated conversion from string constant to 'char*'-332718074#0#146#-1#-23%DVTTextDocumentLocation3@93"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp0000000000000000^286#18446744073709551615#286#18446744073709551615#18446744073709551615#0#49"Deprecated conversion from string constant to '*'--2@53"Deprecated conversion from string constant to 'char*'-332718074#146#146#-1#-3@93"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp0000000000000000^286#18446744073709551615#286#18446744073709551615#18446744073709551615#0#49"Deprecated conversion from string constant to '*'--2@53"Deprecated conversion from string constant to 'char*'-332718074#292#146#-1#-3@93"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp0000000000000000^286#18446744073709551615#286#18446744073709551615#18446744073709551615#0#49"Deprecated conversion from string constant to '*'--2@53"Deprecated conversion from string constant to 'char*'-332718074#438#146#-1#-3@93"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp0000000000000000^286#18446744073709551615#286#18446744073709551615#18446744073709551615#0#49"Deprecated conversion from string constant to '*'--2@53"Deprecated conversion from string constant to 'char*'-332718074#584#146#-1#-3@93"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp0000000000000000^286#18446744073709551615#286#18446744073709551615#18446744073709551615#0#49"Deprecated conversion from string constant to '*'--2@40"'int min(int, int)' defined but not used-332718074#730#132#-1#-3@93"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp0000000000000000^88#18446744073709551615#88#18446744073709551615#18446744073709551615#0#24"'*' defined but not used--0#0#0#-19%DVTDocumentLocation4@93"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp0000000000000000^1297"CompileC build/boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o gboggle.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Boggle.hmap -Ics106 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/include -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/DerivedSources/i386 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/DerivedSources -Wall -Wno-sign-compare -F/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac -fstack-check -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/gboggle.cpp -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o
+
+CLd ./Boggle.app/Contents/MacOS/Boggle normal i386
+s332637082.872443
+e332637083.059303
+r1
+xLd
+x./Boggle.app/Contents/MacOS/Boggle
+xnormal
+xi386
+lSLF07#2@39"Link ./Boggle.app/Contents/MacOS/Boggle332637082#332637083#0(0"0(0#0#0"8624420224#569"    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L. -Lcs106 -L/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106 -F. -filelist /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Objects-normal/i386/Boggle.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework Carbon -framework QuickTime -lcs106 -o ./Boggle.app/Contents/MacOS/Boggle0#
+
+CLd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/MacOS/Boggle normal i386
+s333496585.484607
+e333496589.951404
+r1
+xLd
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/MacOS/Boggle
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Link /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/MacOS/Boggle2e207c09c1e0b341^1d91f30dc1e0b341^---0#0#0#--818"Ld ./Boggle.app/Contents/MacOS/Boggle normal i386    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/llvm-g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac -Lcs106 -L/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/cs106 -F/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac -filelist /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/build/boggle.build/Debug/Boggle.build/Objects-normal/i386/Boggle.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Carbon -framework QuickTime -lcs106 -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/MacOS/Boggle
+
+CProcessInfoPlistFile ./Boggle.app/Contents/Info.plist Info.plist
+s332266235.898880
+e332266236.003829
+r1
+xProcessInfoPlistFile
+x./Boggle.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist332266235#332266236#0(0"0(0#0#76"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/Info.plist31525394967363688#229"    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    builtin-infoPlistUtility Info.plist -genpkginfo ./Boggle.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o ./Boggle.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/Info.plist Info.plist
+s332718073.821695
+e332718073.826815
+r1
+xProcessInfoPlistFile
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/Info.plist
+xInfo.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistfb76d2f9dfd4b341^d2a9d3f9dfd4b341^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/Info.plist0000000000000000^426"ProcessInfoPlistFile ./Boggle.app/Contents/Info.plist Info.plist    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    builtin-infoPlistUtility Info.plist -genpkginfo /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app/Contents/Info.plist
+
+CTouch ./Boggle.app
+s332637083.059439
+e332637083.062275
+r1
+xTouch
+x./Boggle.app
+lSLF07#2@18"Touch ./Boggle.app332637083#332637083#0(0"0(0#0#0"8623548384#108"    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    /usr/bin/touch -c ./Boggle.app0#
+
+CTouch /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app
+s333496589.953710
+e333496589.972532
+r1
+xTouch
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Touch /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.appd733f40dc1e0b341^baf7f80dc1e0b341^---0#0#0#--193"Touch ./Boggle.app    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac    /usr/bin/touch -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-4-boggle-mac/./Boggle.app
+
