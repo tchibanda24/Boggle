@@ -1,7 +1,6 @@
 /* File: boggle.cpp
  * ----------------
  * Author: Thabani Chibanda
- * Date: 7/16/11
  * Section leader: Ashwin Siripurapu
  */
 
